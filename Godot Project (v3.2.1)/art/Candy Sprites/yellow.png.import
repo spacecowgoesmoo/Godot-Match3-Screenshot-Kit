@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/background4.png-3bcc08da0a15ae2874594a0111636cbb.stex"
+path="res://.import/yellow.png-0b1d5d83e782f9641f50c2cb744556d0.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/background4.png"
-dest_files=[ "res://.import/background4.png-3bcc08da0a15ae2874594a0111636cbb.stex" ]
+source_file="res://art/Candy Sprites/yellow.png"
+dest_files=[ "res://.import/yellow.png-0b1d5d83e782f9641f50c2cb744556d0.stex" ]
 
 [params]
 
