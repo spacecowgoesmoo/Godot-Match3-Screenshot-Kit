@@ -4,7 +4,7 @@
 [ext_resource path="res://Scenes/Goal.tscn" type="PackedScene" id=2]
 [ext_resource path="res://art/Pieces/Blue Piece.png" type="Texture" id=3]
 [ext_resource path="res://Scenes/Camera2D.tscn" type="PackedScene" id=4]
-[ext_resource path="res://art/background 2.png" type="Texture" id=5]
+[ext_resource path="res://art/background3.png" type="Texture" id=5]
 [ext_resource path="res://Scenes/top_ui.tscn" type="PackedScene" id=6]
 [ext_resource path="res://Scenes/GoalPrefab.tscn" type="PackedScene" id=7]
 [ext_resource path="res://Scenes/bottom_ui.tscn" type="PackedScene" id=8]
@@ -50,6 +50,9 @@ margin_top = 7.0
 margin_right = 576.0
 margin_bottom = 1031.0
 texture = ExtResource( 5 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
 
 [node name="top_ui" parent="CanvasLayer" instance=ExtResource( 6 )]
 margin_right = 576.0
