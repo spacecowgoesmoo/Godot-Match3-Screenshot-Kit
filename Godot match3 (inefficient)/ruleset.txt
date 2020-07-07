@@ -1,0 +1,79 @@
+Already exists in Godot
+	Chocolate
+		Invasive blocker, immobile, slowly spreads
+	Frosting
+		Invasive blocker, immobile
+	Jelly
+		Sits underneath a piece, clear them all as a level goal
+	Licorice Lock
+		Noninvasive blocker, seals effects of contained element
+		Breakable by bombs or matching the contained candy
+
+
+
+
+Want to add
+	Candy Cane Fence
+		Unbreakable wall between two squares, blocks matches 
+	Chocolate Spawner
+		Unbreakable invasive blocker, spawns chocolate very slowly
+	Frosting, 2-5 layers
+	Sugar Chest
+		Noninvasive blocker, seals effects of contained element
+		Match 1-5 keys anywhere in the stage to unlock
+		Keys affect all Sugar Chests in the stage at once
+		Keys are color coded like normal Candies
+
+
+
+
+Less essential
+	Candy Cannon
+		Spawns a preset element below it whenever possible
+	Cake Bomb
+		2x2 invasive blocker, immobile
+		Takes 8 hits to break, or adjacent matches
+		Multiple squares can take damage in one move
+		Big explosion once it breaks
+	Conveyor belts
+	Jelly, 2 layers
+	Licorice Swirl
+		Invasive blocker, affected by gravity, movable
+		Breakable by adjacent matches
+		Breakable by bomb effects but stops the blast
+		Can respawn from the top of the screen
+	Magic Mixer
+		Unbreakable invasive blocker, spawns a preset element very slowly
+	Marmalade
+		Noninvasive blocker, seals effects of contained element
+		Same as LL but also breakable by adjacent matches
+	Popcorn, 1-3 layers
+		Invasive blocker, only breakable with bombs
+		Turns into a 3x3 bomb once broken
+	Portals
+
+
+
+
+Less essential and experimental
+	Candy Cane Curl
+		Same as usual but breakable, 1-3 layers
+	Dark Chocolate
+		Same as usual but 1-3 layers
+		Also 'spreads' upwards in layers, making it slower to cover squares
+	Rainbow Twist
+		Invasive blocker, immobile, 1-5 layers
+		Appears in lines, and the whole line is destroyed when one square is
+		The whole line is also -1'd if one block gets hit
+		Conveyor belts can break the line
+	Waffle, 1-5 layers
+		Invasive blocker, mobile
+
+
+
+
+Hell no
+	Candy Bomb
+		Normal colored matchable candy
+		Has an instant death countdown timer, 1-99 turns
+		Still kills you if they explode while blocked in any way
