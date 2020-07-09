@@ -1,0 +1,108 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Levels/levelE1.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "Levels"
+    ],
+    "exportAsImage.includeBackgroundColor": false,
+    "exportAsImage.useCurrentScale": false,
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/Users/spacecowgoesmoo/Desktop/Mobile - Candy Crush Saga - Candies.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "/Users/spacecowgoesmoo/Desktop/test.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/candyCrushTileset.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/test.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 418.18181818181824,
+                "y": 468.18181818181813
+            }
+        },
+        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/testLevel.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 413.3333333333333,
+                "y": 375.33333333333326
+            }
+        },
+        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/tileset.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "Levels/candyCrushTileset.tsx": {
+            "scaleInDock": 1
+        },
+        "Levels/levelE1.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 447,
+                "y": 495
+            }
+        },
+        "candyCrushTileset.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "levelE1.tmx": {
+            "scale": 0.7284912718204489,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 401.5147625160461,
+                "y": 400.14206247325626
+            }
+        },
+        "testLevel.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 539,
+                "y": 513
+            }
+        }
+    },
+    "map.height": 9,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 100,
+    "map.tileWidth": 100,
+    "map.width": 9,
+    "openFiles": [
+        "Levels/levelE1.tmx",
+        "candyCrushTileset.tsx"
+    ],
+    "project": "levelSet.tiled-project",
+    "recentFiles": [
+        "candyCrushTileset.tsx",
+        "Levels/levelE1.tmx",
+        "levelE1.tmx",
+        "testLevel.tmx",
+        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/testLevel.tmx",
+        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/candyCrushTileset.tsx",
+        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/tileset.tsx",
+        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/test.tmx",
+        "/Users/spacecowgoesmoo/Desktop/test.tsx",
+        "/Users/spacecowgoesmoo/Desktop/Mobile - Candy Crush Saga - Candies.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 100,
+        "width": 100
+    },
+    "tileset.type": 0
+}
