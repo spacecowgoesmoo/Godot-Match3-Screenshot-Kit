@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="9" height="9" tilewidth="90" tileheight="90" infinite="0" backgroundcolor="#678daf" nextlayerid="6" nextobjectid="1">
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="90" tileheight="90" infinite="0" backgroundcolor="#678daf" nextlayerid="8" nextobjectid="3">
  <tileset firstgid="1" source="../candyCrushTileset.tsx"/>
  <imagelayer id="4" name="Background Image">
   <image source="../Images/ccjsEpisode1.png" width="1024" height="1024"/>
  </imagelayer>
- <layer id="1" name="Blue Base" width="9" height="9">
+ <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WBEAL0AACAfAB8iB4Ag9wEkWCGALkclsLprD2AH
+   KLUv/WDkAM0BAEQCKgAAACMAAAAwKQAAACEAAAAfAAAAJCAsAAAAIgAAADErAAAABwA7AFbcA3tKPQCCFfd3IMwtRw==
   </data>
  </layer>
- <layer id="5" name="Lower Sprites" width="9" height="9">
+ <layer id="5" name="Lower Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WBEALUAAEgAABIAAAATABMEAEVAgaPIC8RyBLA=
+   KLUv/WDkAE0AABAAAAEA3yrAAg==
   </data>
  </layer>
- <layer id="2" name="Upper Sprites" width="9" height="9">
+ <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WBEAK0CAAQCAgAFAAAABAAAAAEFAwIFAgACBwcMDBcXDg4OCQkJCgobqGC67VCCZOUDEBgBMSWZkvo7dxSj8XzKP8CP7zn6P2A7A/vEgxf+tjZi6MHXTzA5IAM=
+   KLUv/WDkAM0CAOAAAAIFAAAABAAAAAEFAwEDAwIEBAcMFw4OCQkKJaAAOy2QAqYYITLgivAefu0/mwYJB86Y354Lx6wIbwPMiO8BZ8R5fXYM2zczspwM+RXjZZ68y45sbIYf
   </data>
  </layer>
+ <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">
+  <object id="1" x="30" y="930" width="500" height="50">
+   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: Jelly x5</text>
+  </object>
+ </objectgroup>
 </map>
