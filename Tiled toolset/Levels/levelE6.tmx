@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="90" tileheight="90" infinite="0" backgroundcolor="#678daf" nextlayerid="9" nextobjectid="3">
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="90" tileheight="90" infinite="0" backgroundcolor="#678daf" nextlayerid="9" nextobjectid="4">
  <tileset firstgid="1" source="../candyCrushTileset.tsx"/>
  <imagelayer id="4" name="Background Image">
   <image source="../Images/ccjsEpisode1.png" width="1024" height="1024"/>
@@ -11,7 +11,7 @@
  </layer>
  <layer id="1" name="Blue Base 1" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAG0BALAqAAAAIykAAAAhACAfLAAAACIrAAAACAB2pAaiAAwUAQW75PCUxOIeaNK9AQ==
+   KLUv/WDkAEUBALAqAAAAIykAAAAhAB8gLAAAACIrAAAABgB2pII9pQxW2wWGw6BJ9wY=
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
@@ -21,7 +21,7 @@
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAE0AABAAAAEA3yrAAg==
+   KLUv/WDkAMUAACAAAAcGB4Ag9wnQACi7ZE+ZAOfM5jEFdg==
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">

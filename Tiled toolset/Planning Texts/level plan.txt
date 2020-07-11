@@ -1,24 +1,16 @@
-15 levels for each one
-Goal types:
-	E - High score with X moves
-	E - Collect X of Y element
-	M - Bring X items to the bottom row
-
-
-
-
-Easy World
-	Jelly, 1-2 layers
-	Frosting, 1-2 layer
-	Licorice Lock
-	Chocolate
-
-Medium World
-	Chocolate Spawner
-	Frosting, 1-5 layer
-	Licorice Swirl
-
-Hard World
-	Marmalade
-	Popcorn
-	Sugar Chest, 1-5 layers
+Easy
+	Score		Small		-
+	Score		Wide		-
+	All Jelly	Small		Jelly
+	All Jelly	Pyramid		Jelly
+	3 Ingr.		-			-
+	Score		Tall		Frosting
+	2 Ingr.		T-shape		Frosting
+	Most Jelly	R. Pyramid	Jelly
+	Score		Wide		L. Locks
+	2 Ingr.		Columns		L. Locks, Frosting
+	All Jelly	Small		Frosting, Jelly
+	Score		Wide		Chocolate
+	2 Ingr.		-			Chocolate, Frosting
+	Score		-			Chocolate, L.Locks, Frosting
+	All Jelly	Tall		L. Locks, Jelly

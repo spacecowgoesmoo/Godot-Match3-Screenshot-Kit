@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Levels/levelE1.tmx",
+    "activeFile": "Levels/levelE13.tmx",
     "expandedProjectPaths": [
         "Levels",
         "."
@@ -50,14 +50,126 @@
         },
         "Levels/levelE1.tmx": {
             "scale": 0.5,
-            "selectedLayer": 4,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 536,
+                "x": 542,
                 "y": 531
             }
         },
+        "Levels/levelE10.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE11.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE12.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE13.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE14.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE15.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE2.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 454.43819706885427,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE3.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE4.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE5.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE6.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 454.43819706885427,
+                "y": 500.97704857590566
+            }
+        },
+        "Levels/levelE7.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE8.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 458.08830306940735,
+                "y": 495.50188957507595
+            }
+        },
+        "Levels/levelE9.tmx": {
+            "scale": 0.5479292929292929,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 454.43819706885427,
+                "y": 495.50188957507595
+            }
+        },
         "candyCrushTileset.tsx": {
-            "scaleInDock": 0.5,
+            "scaleInDock": 0.33,
             "scaleInEditor": 1
         },
         "levelE1.tmx": {
@@ -84,20 +196,35 @@
     "map.width": 9,
     "openFiles": [
         "Levels/levelE1.tmx",
-        "candyCrushTileset.tsx"
+        "Levels/levelE2.tmx",
+        "Levels/levelE3.tmx",
+        "Levels/levelE4.tmx",
+        "Levels/levelE5.tmx",
+        "Levels/levelE6.tmx",
+        "Levels/levelE7.tmx",
+        "Levels/levelE8.tmx",
+        "Levels/levelE9.tmx",
+        "Levels/levelE10.tmx",
+        "Levels/levelE11.tmx",
+        "Levels/levelE12.tmx",
+        "Levels/levelE13.tmx",
+        "Levels/levelE14.tmx",
+        "Levels/levelE15.tmx"
     ],
     "project": "levelSet.tiled-project",
     "recentFiles": [
-        "candyCrushTileset.tsx",
         "Levels/levelE1.tmx",
-        "levelE1.tmx",
-        "testLevel.tmx",
-        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/testLevel.tmx",
-        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/candyCrushTileset.tsx",
-        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/tileset.tsx",
-        "/Users/spacecowgoesmoo/Documents/GitHub/Godot-Match3-Screenshot-Kit/Tiled toolset/test.tmx",
-        "/Users/spacecowgoesmoo/Desktop/test.tsx",
-        "/Users/spacecowgoesmoo/Desktop/Mobile - Candy Crush Saga - Candies.tsx"
+        "Levels/levelE2.tmx",
+        "Levels/levelE3.tmx",
+        "Levels/levelE4.tmx",
+        "Levels/levelE5.tmx",
+        "Levels/levelE6.tmx",
+        "Levels/levelE7.tmx",
+        "Levels/levelE8.tmx",
+        "Levels/levelE9.tmx",
+        "Levels/levelE10.tmx",
+        "Levels/levelE11.tmx",
+        "Levels/levelE12.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
