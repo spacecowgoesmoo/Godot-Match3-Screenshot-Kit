@@ -4,14 +4,9 @@
  <imagelayer id="4" name="Background Image">
   <image source="../Images/ccjsEpisode1.png" width="1024" height="1024"/>
  </imagelayer>
- <layer id="8" name="Blue Base 2" width="11" height="11">
+ <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAE0AABAAAAEA3yrAAg==
-  </data>
- </layer>
- <layer id="1" name="Blue Base 1" width="11" height="11">
-  <data encoding="base64" compression="zstd">
-   KLUv/WDkAEUBALAqAAAAIykAAAAhAB8gLAAAACIrAAAABgB2pII9pRi8tksMt0GT7g0=
+   KLUv/WDkAFUBAKgAACoAAAAjKQAhAAAAHyAsAAAAIisHAEcZYpco3FMq2yUP57VdegNoAw==
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
@@ -21,7 +16,7 @@
  </layer>
  <layer id="9" name="Middle Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAJ0AABgAABAFAACHwFMUABB2yX1QARY=
+   KLUv/WDkAE0AABAAAAEA3yrAAg==
   </data>
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">

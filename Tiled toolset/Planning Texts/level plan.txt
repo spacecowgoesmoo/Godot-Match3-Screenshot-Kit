@@ -2,15 +2,55 @@ Easy
 	Score		Small		-
 	Score		Wide		-
 	All Jelly	Small		Jelly
-	All Jelly	Pyramid		Jelly
-	3 Ingr.		-			-
-	Score		Tall		Frosting
-	2 Ingr.		T-shape		Frosting
-	Most Jelly	R. Pyramid	Jelly
-	Score		Wide		L. Locks
-	2 Ingr.		Columns		L. Locks, Frosting
-	All Jelly	Small		Frosting, Jelly
-	Score		Wide		Chocolate
-	2 Ingr.		-			Chocolate, Frosting
-	Score		-			Chocolate, L.Locks, Frosting
-	All Jelly	Tall		L. Locks, Jelly
+	All Jelly	Pyramid		Jelly 2
+	3 Ingr.		Bottle		-
+	Score		Full+Holes	Frosting
+	2 Ingr.		Chicane		Frosting
+	Most Jelly	4x4 zones	Jelly
+	Score		Wide		L Locks
+	2 Ingr.		Columns		L Locks, Frosting
+	All Jelly	Small		Frosting, Jelly 2
+	Score		R. Pyramid	Chocolate
+	2 Ingr.		8			Chocolate, Frosting
+	Score		-			Gimmick
+	All Jelly	Tall		L Locks, Jelly
+
+
+
+
+Medium
+	-			-			C Spawner
+	-			-			C Spawner, Frosting 3
+	-			-			L Locks, Frosting 4
+	-			-			Chocolate
+	Jelly		-			Jelly 2
+	-			-			Frosting 5
+	Jelly		-			Chocolate, Jelly 2
+	Score		-			Frosting 12345
+	Jelly		-			L Locks, Jelly
+	-			-			C Spawner, Chocolate
+	-			-			L Swirl
+	-			-			Frosting 5, L Swirl
+	-			-			Gimmick
+	Jelly		-			C Spawner, Jelly
+	-			-			L Swirl, L Locks
+
+
+
+
+Hard
+	-			-			Marmalade, Chocolate
+	-			-			Tiniest level possible
+	-			-			Marmalade, C Spawner
+	Jelly		-			Frosting 5, Jelly
+	-			-			L Swirl, Chocolate
+	-			-			S Chest
+	Jelly		-			Frosting, Jelly 2
+	-			-			Marmalade, S Chest
+	-			-			S Chest, Frosting 5
+	Jelly		-			L Swirl, Jelly
+	-			-			Popcorn
+	Jelly		-			Popcorn, Jelly
+	-			-			S Chest, C Spawner
+	-			-			Marmalade, Popcorn
+	-			-			Everything

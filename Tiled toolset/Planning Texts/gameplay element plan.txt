@@ -20,5 +20,5 @@ Medium World
 
 Hard World
 	Marmalade
-	Popcorn
 	Sugar Chest, 1-5 layers
+	Popcorn
