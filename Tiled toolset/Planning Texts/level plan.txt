@@ -12,7 +12,7 @@ Easy
 	All Jelly	Small		Frosting, Jelly 2
 	Score		R. Pyramid	Chocolate
 	2 Ingr.		8			Chocolate, Frosting
-	Score		-			Gimmick
+	Score		-			Chocolate
 	All Jelly	Tall		L Locks, Jelly
 
 
