@@ -2,26 +2,26 @@
 <map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="90" tileheight="90" infinite="0" backgroundcolor="#678daf" nextlayerid="9" nextobjectid="3">
  <tileset firstgid="1" source="../candyCrushTileset.tsx"/>
  <imagelayer id="4" name="Background Image">
-  <image source="../Images/ccjsEpisode1.png" width="1024" height="1024"/>
+  <image source="../Images/ccjsEpisode3.png" width="1024" height="1024"/>
  </imagelayer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkADUBAMAqAAAAIykAAAAhAAAAHyAsAAAAIisAAAAEAHakgj2lMoCUJt0b
+   KLUv/WDkAO0BANAqAAAAIykAAAAhACAfHx8fACwAAAAiKwAAABOgMDc3YMPWBiYV8kAgMuKARp5pjHgCiX7ycH2rKz9iEu0=
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAE0AABAAAAEA3yrAAg==
+   KLUv/WDkALUAACgAAA4NAAUAEaQQeIoCOIG7mO0o0AY=
   </data>
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAE0AABAAAAEA3yrAAg==
+   KLUv/WDkAOUAACAAABAQCIAw9fmyaPqZFKB51eeASyC1cz8pkAE=
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">
   <object id="1" x="30" y="930" width="500" height="50">
-   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: ...</text>
+   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: 6 Jelly</text>
   </object>
  </objectgroup>
 </map>
