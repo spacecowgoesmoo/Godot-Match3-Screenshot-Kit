@@ -2,26 +2,26 @@
 <map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="90" tileheight="90" infinite="0" backgroundcolor="#678daf" nextlayerid="9" nextobjectid="3">
  <tileset firstgid="1" source="../candyCrushTileset.tsx"/>
  <imagelayer id="4" name="Background Image">
-  <image source="../Images/ccjsEpisode3.png" width="1024" height="1024"/>
+  <image source="../Images/ccjsEpisode5.png" width="1024" height="1024"/>
  </imagelayer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAB0DAMQCAAAqAAAAIykAOQAAAB84ITwgPj49JD49LAAAADs6AAAAKyIxKwAAAAAAAAAaoLAe0wGgAhN54dewPr3lWcp6yGU6uAeBibe1Qnj3HRo7D3VN3bEOwsJOGl22GgBlX8pwfw==
+   KLUv/WDkADUBAMAqAAAAIykAAAAhAAAAHyAsAAAAIisAAAAEAHakgj2lMoCUJt0b
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkADUBAEAAABAQEBAQEA+gIH1gw4Q9oVbWcGbRwKd5j14m6e/F/JoGZ9pT
+   KLUv/WDkAE0AABAAAAEA3yrAAg==
   </data>
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAK0AADAAAAwADAAEAG1tUjAGFAYKfinAAg==
+   KLUv/WDkAE0AABAAAAEA3yrAAg==
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">
   <object id="1" x="30" y="930" width="500" height="50">
-   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: Most Jelly</text>
+   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: ...</text>
   </object>
  </objectgroup>
 </map>

@@ -2,7 +2,7 @@
 <map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="90" tileheight="90" infinite="0" backgroundcolor="#678daf" nextlayerid="9" nextobjectid="3">
  <tileset firstgid="1" source="../candyCrushTileset.tsx"/>
  <imagelayer id="4" name="Background Image">
-  <image source="../Images/ccjsEpisode1.png" width="1024" height="1024"/>
+  <image source="../Images/ccjsEpisode5.png" width="1024" height="1024"/>
  </imagelayer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">

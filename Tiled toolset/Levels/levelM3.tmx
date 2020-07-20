@@ -6,7 +6,7 @@
  </imagelayer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAO0BANgqAAAAIykAAAAhAB8gHx8fHwAsAAAAIisAAAASoABdboCD1QEmvJGZXPi7yQsfC7WkDMpP9dslUMQk2gE=
+   KLUv/WDkAGUCACQCAAAqAAAAIyk5AAAAHyAgICA6AAAAKwAAACEALAAAACIrABWg8HTJOTADSw+sYK0lPQgBE663EZZZqlVredVaXLUo3e7luuvaMyg=
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
@@ -21,12 +21,12 @@
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAF0BAFAAAAwACgkKBwkHEaAQ+3DD0jpEYvGEJjwTkZ0IuNUgobcmubqu68klkAI=
+   KLUv/WDkAF0BAFAAAAwACgoJBwAHEaAw83DDQjdEYeEJFRnsyPBEvGvg3EQ6Cazr+g+Xugw=
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">
   <object id="1" x="30" y="930" width="500" height="50">
-   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: All Jelly</text>
+   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: Most Jelly</text>
   </object>
  </objectgroup>
 </map>

@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="90" tileheight="90" infinite="0" backgroundcolor="#678daf" nextlayerid="9" nextobjectid="3">
+<map version="1.4" tiledversion="1.4.1" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="90" tileheight="90" infinite="0" backgroundcolor="#678daf" nextlayerid="10" nextobjectid="3">
  <tileset firstgid="1" source="../candyCrushTileset.tsx"/>
  <imagelayer id="4" name="Background Image">
   <image source="../Images/ccjsEpisode3.png" width="1024" height="1024"/>
  </imagelayer>
+ <layer id="9" name="Blue Base Corners" width="11" height="11">
+  <data encoding="base64" compression="zstd">
+   KLUv/WDkAL0BAGAAACopACwrKisALisTgCD3OP2yEAjSj+EAw1B0uDoyxMChh8IDLuAg+wu9G2PChI6TXgz/BC0=
+  </data>
+ </layer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAO0BANAqAAAAIykAAAAhACAfHx8fACwAAAAiKwAAABOgMDc3YMPWBiYV8kAgMuKARp5pjHgCiX7ycH2rKz9iEu0=
+   KLUv/WDkAGUCAMAAACMhAAAAHyAAJSMfIyQkIiIAIgAAAAAZoBDZNbACFVk9DwwgfKmEm3jmdeKQ14GOYDcu49716ZXr185UzlndzvQ7sm3cYnM1ie8=
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">

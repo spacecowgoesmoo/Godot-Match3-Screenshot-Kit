@@ -6,7 +6,7 @@
  </imagelayer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAL0BAMAqAAAAIykAAAAhACAfHx8sAAAAIisAAAAOoEA3N9CCvRhG1oAHzjCVVBNGvwR2MHySikdM1h0=
+   KLUv/WDkAB0CAOgAACoAAAAjKQA5AAAAHzghID4sAAAAIgAAADErAA+gwJQl56ACZOEBYzSrbo6tozwpEy1qwFe0SerN9SBUWsM7AQo=
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">

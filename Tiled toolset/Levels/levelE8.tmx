@@ -21,7 +21,7 @@
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">
   <object id="1" x="30" y="930" width="500" height="50">
-   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: 58 Jelly</text>
+   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: Most Jelly</text>
   </object>
  </objectgroup>
 </map>

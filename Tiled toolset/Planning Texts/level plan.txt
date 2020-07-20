@@ -21,18 +21,18 @@ Easy
 Medium
 	Score		Big X		C Spawner
 	3 Ingr.		Film Reel	C Spawner, Frosting 3
-	Jelly		Big /		L Locks, Frosting 4
+	Most Jelly	Big /		L Locks, Frosting 4
 	2 Ingr.		Tall		Chocolate
-	Jelly		Big O		Jelly 2
-	Score		Wide		Frosting 5
-	Jelly		Collage		Chocolate, Jelly 2
+	All Jelly	Big O		Jelly 2
+	Score		Oval		Frosting 5
+	All Jelly	Collage		Chocolate, Jelly 2
 	3 Ingr.		<3 Flower	Frosting 12345
-	Jelly		Snail		L Locks, Jelly
-	Jelly		Tiny		C Spawner, Chocolate
+	Most Jelly	Snail		L Locks, Jelly
+	Most Jelly	Tiny		C Spawner, Chocolate
 	Score		Trashcan	L Swirl
 	Score		Bookshelf	Frosting 5, L Swirl
 	20 Ingr.	Pac-Ghost	Gimmick: Ingredient Spam
-	Jelly		Diamond		C Spawner, Jelly
+	All Jelly	Diamond		C Spawner, Jelly
 	Score		Temple		L Swirl, L Locks
 
 
