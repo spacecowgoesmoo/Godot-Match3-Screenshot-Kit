@@ -39,9 +39,9 @@ Medium
 
 
 Hard
-	-			-			Marmalade, Chocolate
-	-			-			Tiniest level possible
-	-			-			Marmalade, C Spawner
+	-			-			Marmalade, ???
+	Score		Ring? idk	L Lock, C Spawner
+	Score		-			Marmalade, C Spawner
 	Jelly		-			Frosting 5, Jelly
 	-			-			L Swirl, Chocolate
 	-			-			S Chest

@@ -6,7 +6,7 @@
  </imagelayer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkADUBAMAqAAAAIykAAAAhAAAAHyAsAAAAIisAAAAEAHakgj2lMoCUJt0b
+   KLUv/WDkAL0BAMAqAAAAIykAAAAhACAfHx8sAAAAIisAAAANoBA38rCCnHgW6SYpEgwcSy5TJpG9jXwljScmmQ0=
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
@@ -16,12 +16,12 @@
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAE0AABAAAAEA3yrAAg==
+   KLUv/WDkAL0AACgAAAwNAAYABxIGnNFTJgAQdsl9UAEW
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">
   <object id="1" x="30" y="930" width="500" height="50">
-   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: ...</text>
+   <text fontfamily="Open Sans" pixelsize="36" wrap="1" valign="center">Goal: Score</text>
   </object>
  </objectgroup>
 </map>
