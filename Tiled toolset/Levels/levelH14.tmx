@@ -6,17 +6,17 @@
  </imagelayer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkADUBAMAqAAAAIykAAAAhAAAAHyAsAAAAIisAAAAEAHakgj2lMoCUJt0b
+   KLUv/WDkAGUBALAqAAAAIykAAAAhACAfLAAAACIrAAAACAB2pGCNOBIagAp25J5yWdwDTbo3
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAE0AABAAAAEA3yrAAg==
+   KLUv/WDkAN0AACgAABIAEggAGaQAENiBkHmKAFjgZnmBgncCWA==
   </data>
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAE0AABAAAAEA3yrAAg==
+   KLUv/WDkAJ0AABgAAA8FACFAQespCgAIu+T+BLA=
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">
