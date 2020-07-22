@@ -41,16 +41,16 @@ Medium
 Hard
 	-			-			Marmalade, ???
 	Score		Ring? idk	L Lock, C Spawner
-	Score		-			Marmalade, C Spawner
-	Jelly		-			Frosting 5, Jelly
-	-			-			L Swirl, Chocolate
+	Score		Fullish		Marmalade, C Spawner
+	Most Jelly	Diamond+	Jelly
+	3 Ingr.		Columns		L Swirl, Chocolate
 	-			-			S Chest
 	Jelly		-			Frosting, Jelly 2
 	-			-			Marmalade, S Chest
 	-			-			S Chest, Frosting 5
 	Jelly		-			L Swirl, Jelly
-	-			-			Popcorn
-	Jelly		-			Popcorn, Jelly
+	All Jelly	Buildings	Popcorn, Jelly
+	All Popcorn	Bowl		Popcorn, L Swirl
 	-			-			S Chest, C Spawner
 	-			-			Marmalade, Popcorn
-	-			-			Everything
+	All Jelly	3x3 Grid	Everything
