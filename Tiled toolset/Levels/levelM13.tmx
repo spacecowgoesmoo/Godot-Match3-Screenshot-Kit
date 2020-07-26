@@ -16,7 +16,7 @@
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAPUAAEgAABMAFBQAFAAHAENAYZyIP8GYisGLcYGDJxTAAg==
+   KLUv/WDkAJ0CANgAAAEAAAACAAAABAADAAAAExQTAgQDFAADBAAcoFDZshngghHJG4+YXnpDw/kKeVlyEPHgGTjoPNItEJKGMyybOzOij46F03S03rQtg1NMI3U7
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">

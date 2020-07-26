@@ -11,12 +11,12 @@
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkADUBAEAAABAQEBAQEA+gIH1gw4Q9oVbWcGbRwKd5j14m6e/F/JoGZ9pT
+   KLUv/WDkAKUBAGgAAAUAAAAQBAAQEBABEqBAszUAAwvVAzn5gtdVrvVD/Ap6Gg+i92Eq8hvEfmTV6fLS3gI=
   </data>
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAK0AADAAAAwADAAEAG1tUjAGFAYKfinAAg==
+   KLUv/WDkAEUDAOgAAAQDAAAAAQUAAAACDAMFBAECBAMBBQMDAgQCACWgEB01cIJChMYBo+t14WtGHCe8ZjMDwo8IEyKGRj433Opojo2R4TXjr25kELlGPNQPNYzwF8JgLrczIr8hu8QOs4ja6w437iw/
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">

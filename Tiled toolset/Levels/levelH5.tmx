@@ -11,7 +11,7 @@
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAFUBAEgAABMLAA4OCwAOgFD1i09X0L/AACCg+aoHBhRw3Lk+TjoUAhBmNt8JWg==
+   KLUv/WDkAC0DAMAAAAMAAAATAQQUCwICBAIOAwMLDgMLAAQooCB7BaACGpwyMfkltIUjNssOk/f7eGdivyLcIZTzIw5P1tlZtTgL8SADkhuIm1cs3v08XzA/5EgI/jSYssa5e2LLOiCu8hnZHzkZ
   </data>
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">

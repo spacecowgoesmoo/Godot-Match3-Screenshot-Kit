@@ -6,17 +6,17 @@
  </imagelayer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAI0CACQCAAAqAAAAIykAOQAAAB84ISA5OD8AAAAlQCwAAAAiKwAAABSg8JbpgAIUNR6OtIL/lPzkkWA02kTwZ+xTdfKdz+P7qjutXlyxQxXO4E/FBg==
+   KLUv/WDkAC0DADQDAAAAACoAAAAjKQA5AAAAHzghIC4AAABAPCEfPwAAAC8sAAAAOzoAAAArIisAAAAAAAAAFaDA1KTOAaACm9nYC/PXk7otbsQvTc4cyCQHDUKtTzdJvGIJFq151oSryxCbw54C
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAE0AABAAAAEA3yrAAg==
+   KLUv/WDkAG0DACQCAAABAAAAAgAAAAQDBQMEAQMCAgECAgEEAgUABQUCAwANBCagwPhaoAKiKhrBZ+/aIimUzsfHhAw0WDh3Fj9KMBZzRz4at9pYm3FDfm0aiFzmE4yI3541d43JDEnkP0s20gyW+vFcL/sjLgM=
   </data>
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAEUBAIgAAAQAAAACAAMAAAABAAwNAAggcIOlA5cwPqNnAkF4cg8tPWVCCSw=
+   KLUv/WDkAJ0AABgAAAwFAC1AQS+FALyw0twbBbA=
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">
