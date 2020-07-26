@@ -40,10 +40,10 @@ Medium
 
 Hard
 	All Jelly	Wide		Marmalade, Jelly 2
-	Score		Ring? idk	L Lock, C Spawner
+	Score		Ring		L Lock, C Spawner
 	Score		Fullish		Marmalade, C Spawner
 	Most Jelly	Diamond+	Jelly
-	3 Ingr.		Columns		L Swirl, Chocolate
+	3 Ingr.		Columns		L Swirl, Chocolate, C Spawner
 	8 Ingr.		Squares		S Chest, Chocolate, Marmalade
 	All Jelly	Cracker		Frosting, Jelly 2
 	Score		Full		S Chest, C Spawner
@@ -51,6 +51,6 @@ Hard
 	All Jelly	Full Mesh	L Swirl, Jelly, Marmalade
 	All Jelly	Buildings	Popcorn, Jelly 2
 	All Popcorn	Bowl		Popcorn, L Swirl
-	3 Ingr.		Gumdrop		S Chest, C Spawner
-	Score		meh			Marmalade, Popcorn
+	3 Ingr.		Egg			S Chest, C Spawner
+	Score		Box			Marmalade, Popcorn
 	All Jelly	3x3 Grid	Everything
