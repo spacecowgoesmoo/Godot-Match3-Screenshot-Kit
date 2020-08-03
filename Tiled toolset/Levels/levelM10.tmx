@@ -6,22 +6,22 @@
  </imagelayer>
  <layer id="9" name="Blue Base Corners" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAL0BAGAAACopACwrKisALisTgCD3OP2yEAjSj+EAw1B0uDoyxMChh8IDLuAg+wu9G2PChI6TXgz/BC0=
+   KLUv/WDkANUBAHAAACopACwrKikrLikrABSg8NwBwAKzGTdA2wrSIN9kDIbk1Q8n1M4DeKR5XTN8Fjs1pxIe5c9YLjI=
   </data>
  </layer>
  <layer id="1" name="Blue Base" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAGUCAMAAACMhAAAAHyAAJSMfIyQkIiIAIgAAAAAZoBDZNbACFVk9DwwgfKmEm3jmdeKQ14GOYDcu49716ZXr185UzlndzvQ7sm3cYnM1ie8=
+   KLUv/WDkAIUCALAAACMhAAAAHyAAJR8jJCEiIiIAAAAAG6AweTWwAhSI2QYPDAi3KrzmT2NAIkmfbfMwcxrIY9K7d214gQtiPndTuR+A4Uy9Alaee2zc8tQO
   </data>
  </layer>
  <layer id="5" name="Lower Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAD0BADgAABAODRAADYAQ3QH5slBxJUAACzQIzk/pc+AMldwZEiA7lycFOw==
+   KLUv/WDkAIUBAGgAABAEAAAADg0ADg0ADoAwrWu5tVAGhwIcDtSnJC/OxHBgteuEE7SLF0DuXE0CJA==
   </data>
  </layer>
  <layer id="2" name="Upper Sprites" width="11" height="11">
   <data encoding="base64" compression="zstd">
-   KLUv/WDkAH0BAHgAAAQAAAACAAMAAQMDAAQNoOCS8yADIgYeIeImocMp6sEvW2dzup69dOyinXSh
+   KLUv/WDkAI0BAIgAAAQAAAACAAMAAgEAAwMABA2gwBLnATADI+sh4qbQYBIb4u0QF2VnLU5lU+okiAI=
   </data>
  </layer>
  <objectgroup id="7" name="Text Goal" offsetx="-10" offsety="0">
